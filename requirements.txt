@@ -8,6 +8,7 @@ click-bash4.2-completion
 colorama
 cycler
 cymem
+gunicorn
 et-xmlfile
 Flask
 gensim
